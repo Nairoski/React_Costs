@@ -1,17 +1,5 @@
 {
-  "projects": [
-    {
-      "id": "e7ad",
-      "name": "Nairoski",
-      "budget": "30000",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": []
-    }
-  ],
+  "projects": [],
   "categories": [
     {
       "id": "1",
