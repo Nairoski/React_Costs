@@ -1,0 +1,36 @@
+.contato_container {
+    width: 100%;
+    display: block;
+}
+
+.contato_container span {
+    background-color: #222;
+    padding: 0 0.2em;
+    color: #ffbb33;
+}
+
+.contato_container p {
+    color: #333;
+}
+
+.contato_item {
+    display: block;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 2em;
+    margin-top: 2em;
+    border-radius: 5px;
+    border: 3px solid #222;
+    background-color: #222;
+    height: 60%;
+
+}
+
+.contato_item img {
+    margin-top: 6em;
+}
+.contato_item p {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    color: #ffbb33;
+}
